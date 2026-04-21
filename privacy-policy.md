@@ -1,3 +1,5 @@
+﻿[English](privacy-policy.md) &#x2022; [Русский](privacy-policy-ru.md)
+
 # Privacy Policy for Galerext
 
 **Last updated:** March 11, 2026
